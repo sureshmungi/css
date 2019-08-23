@@ -1,0 +1,5 @@
+img[title] { border: 3px green dotted; }
+
+img[width] { border: 2px solid deeppink; }
+
+img[title|="title"] { border: 2px darkred  darkblue; }

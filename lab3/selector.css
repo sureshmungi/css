@@ -1,0 +1,36 @@
+*{
+    color:lawngreen;
+}
+h1{
+    color: red;
+}
+div{
+    color:palegreen;
+}
+p{
+    color:navy;
+}
+#d1{
+    font: bold;
+}
+#d2{
+    font-family: 'Times New Roman', Times, serif;
+}
+#d3{
+    font-size: 12mm;
+}
+#p1{
+    color: mediumseagreen;
+}
+#p2{
+    padding: 2cm;
+}
+#p3{
+    text-align: right
+}
+#p4{
+   background: yellow;
+}
+#p5{
+    border: tomato;
+}
